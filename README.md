@@ -32,7 +32,7 @@ This project is a **responsive admin dashboard** built using **Next.js** and **T
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/admin-dashboard.git
+git clone https://github.com/KAYZI2HIGH/admin-dashboard.git
 ```
 # Navigate into the directory
 ```cd admin-dashboard```
