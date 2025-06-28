@@ -33,7 +33,7 @@ export default function RootLayout({
       >
         <SidebarProvider>
           <AppSidebar />
-          <main className="bg-[#f3f2f7] w-full h-screen">
+          <main className="bg-[#f3f2f7] w-full h-dvh">
             {/* <SidebarTrigger /> */}
             {children}
             {/* <div className="w-full px-5 py-2 shadow-sm border-t bg-white z-50 flex gap-5 justify-between items-center md:hidden">
